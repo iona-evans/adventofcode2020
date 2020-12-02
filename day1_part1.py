@@ -17,7 +17,7 @@ while line != "":
 result = list(range(0))
 
 
-input_file = open("puzzleinput.txt")
+input_file = open("day1_input.txt")
 line = input_file.readline()
 
 while line != "":

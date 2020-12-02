@@ -1,4 +1,4 @@
-input_file = open("puzzleinput.txt")
+input_file = open("day1_input.txt")
 
 list1 = list(range(0))
 
